@@ -1,0 +1,15 @@
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\bin\Debug\net7.0\NovoProjeto.exe
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\bin\Debug\net7.0\NovoProjeto.deps.json
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\bin\Debug\net7.0\NovoProjeto.runtimeconfig.json
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\bin\Debug\net7.0\NovoProjeto.dll
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\bin\Debug\net7.0\NovoProjeto.pdb
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\NovoProjeto.csproj.AssemblyReference.cache
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\NovoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\NovoProjeto.AssemblyInfoInputs.cache
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\NovoProjeto.AssemblyInfo.cs
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\NovoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\NovoProjeto.dll
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\refint\NovoProjeto.dll
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\NovoProjeto.pdb
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\NovoProjeto.genruntimeconfig.cache
+C:\Users\Amanda Irizaga\source\repos\NovoProjeto\obj\Debug\net7.0\ref\NovoProjeto.dll
